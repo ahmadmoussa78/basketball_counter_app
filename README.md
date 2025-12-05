@@ -1,26 +1,24 @@
 🏀 Basketball Points Counter App
 
-A simple and clean Flutter application for keeping track of scores between Team A and Team B.
-This project was first built with basic Flutter state updates, then upgraded to use Bloc State Management (Cubit) to manage and update the UI efficiently.
-
+A clean and simple Flutter application for keeping track of scores between Team A and Team B.
+The project was first built using basic Flutter state updates, then upgraded to use Bloc State Management (Cubit) for cleaner architecture and better UI updates.
 
 🚀 Features
 
-Count points for Team A and Team B
+✔️ Track points for Team A and Team B
 
-Add 1, 2, or 3 points
+✔️ Add 1, 2, or 3 points
 
-Reset all scores with one button
+✔️ Reset all scores instantly
 
-Clean and responsive UI
+✔️ Clean and responsive user interface
 
-Uses Bloc (Cubit) for state management
+✔️ Built with Flutter Bloc (Cubit)
 
-Beginner-friendly project for learning Flutter + Bloc
+✔️ Perfect beginner-friendly project for learning Flutter + State Management
 
-<img width="278" height="602" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/77b262d4-68ad-4c21-ba21-0ff240064960" />
-
-
+📸 App Screenshot
+<img width="278" height="602" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/9b3fdc18-4d2d-4376-845c-f107984be7b5" />
 
 
 🛠️ Tech Stack
@@ -33,15 +31,14 @@ Flutter Bloc (Cubit)
 
 Material Design
 
-
 📚 What I Learned
 
 Building UI using Flutter widgets
 
-Separating logic from UI
+Separating business logic from UI
 
-Managing state using Cubit
+Managing state efficiently with Cubit
 
-Structuring a small Flutter project
+Organizing and structuring a clean Flutter project
 
-Using BlocProvider, BlocConsumer, and updating states properly
+Using BlocProvider, BlocConsumer, and state updates properly
