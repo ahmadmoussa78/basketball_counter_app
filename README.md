@@ -23,8 +23,6 @@ The project was first built using basic Flutter state updates, then upgraded to 
 
 🛠️ Tech Stack
 
-🛠️ Tech Stack
-
 ▶ Flutter framework
 
 ▶ Dart programming language
