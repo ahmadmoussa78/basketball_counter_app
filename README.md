@@ -31,8 +31,13 @@ The project was first built using basic Flutter state updates, then upgraded to 
 
 
 📚 What I Learned
+
 ➡ Building user interfaces using Flutter widgets
+
 ➡ Separating business logic from UI for cleaner code
+
 ➡ Managing state using Cubit
+
 ➡ Structuring a small Flutter project correctly
+
 ➡ Using BlocProvider and BlocConsumer to handle state update
