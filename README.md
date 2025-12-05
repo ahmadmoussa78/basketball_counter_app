@@ -18,6 +18,7 @@ The project was first built using basic Flutter state updates, then upgraded to 
 ✔️ Perfect beginner-friendly project for learning Flutter + State Management
 
 📸 App Screenshot
+
 <img width="278" height="602" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/9b3fdc18-4d2d-4376-845c-f107984be7b5" />
 
 
