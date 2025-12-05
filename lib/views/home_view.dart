@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class HomeView extends StatelessWidget {
-   HomeView({super.key});
-  int count = 0;
+  const HomeView({super.key});
+
   @override
   Widget build(BuildContext context) {
     return BlocConsumer<CounterCubit, CounterState>(
@@ -155,10 +155,7 @@ class HomeView extends StatelessWidget {
                   backgroundColor: Colors.orange,
                   minimumSize: Size(150, 60),
                 ),
-                onPressed: () 
-                {
-                
-                },
+                onPressed: () {},
                 child: Text(
                   "Reset",
                   style: TextStyle(color: Colors.black, fontSize: 18),
