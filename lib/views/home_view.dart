@@ -32,7 +32,7 @@ class HomeView extends StatelessWidget {
                     children: [
                       Text("Team A", style: TextStyle(fontSize: 32)),
 
-                      Text("0", style: TextStyle(fontSize: 150)),
+                      Text('$teamApoints', style: TextStyle(fontSize: 150)),
 
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
@@ -80,7 +80,7 @@ class HomeView extends StatelessWidget {
                   Column(
                     children: [
                       Text("Team B", style: TextStyle(fontSize: 32)),
-                      Text("0", style: TextStyle(fontSize: 150)),
+                      Text('$teamBpoints', style: TextStyle(fontSize: 150)),
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.orange,
