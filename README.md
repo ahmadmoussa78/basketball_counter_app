@@ -23,22 +23,16 @@ The project was first built using basic Flutter state updates, then upgraded to 
 
 🛠️ Tech Stack
 
-Flutter
+🛠️ Tech Stack
 
-Dart
+▶ Flutter framework
+▶ Dart programming language
+▶ Flutter Bloc (Cubit) for state management
 
-Flutter Bloc (Cubit)
-
-Material Design
 
 📚 What I Learned
-
-Building UI using Flutter widgets
-
-Separating business logic from UI
-
-Managing state efficiently with Cubit
-
-Organizing and structuring a clean Flutter project
-
-Using BlocProvider, BlocConsumer, and state updates properly
+➡ Building user interfaces using Flutter widgets
+➡ Separating business logic from UI for cleaner code
+➡ Managing state using Cubit
+➡ Structuring a small Flutter project correctly
+➡ Using BlocProvider and BlocConsumer to handle state update
