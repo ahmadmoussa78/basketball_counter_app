@@ -18,7 +18,9 @@ Uses Bloc (Cubit) for state management
 
 Beginner-friendly project for learning Flutter + Bloc
 
-<img width="1080" height="2400" alt="Screenshot_1764918459" src="https://github.com/user-attachments/assets/b670df2f-3703-4ad9-9222-67586aaff4cf" />
+<img width="278" height="602" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/77b262d4-68ad-4c21-ba21-0ff240064960" />
+
+
 
 
 🛠️ Tech Stack
