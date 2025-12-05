@@ -155,7 +155,9 @@ class HomeView extends StatelessWidget {
                   backgroundColor: Colors.orange,
                   minimumSize: Size(150, 60),
                 ),
-                onPressed: () {},
+                onPressed: () {
+                  BlocProvider.of<CounterCubit>(context).resetScore();
+                },
                 child: Text(
                   "Reset",
                   style: TextStyle(color: Colors.black, fontSize: 18),
